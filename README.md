@@ -46,3 +46,8 @@ plotting with matplotlib, including the object-oriented API.
 ## Exercise
 
 As a post workshop exercise, tackle homework.ipynb which will help you make a discovery about bacterial classes which was hidden for 30 years! We'll discuss it on the `#code-with-rahul` channel at our [Discord](https://discord.gg/vSjGrYjnWg).
+
+<a target="_blank" href="https://colab.research.google.com/github/univai-community/VisualizeWithMatplotlib
+/blob/main/homework.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
